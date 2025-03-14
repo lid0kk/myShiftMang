@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fontkit": "^2.0.4",
+    "pdf-lib": "^1.17.1",
+    "sweetalert": "^2.1.2"
+  }
+}
