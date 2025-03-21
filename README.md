@@ -3,7 +3,7 @@
 ## 🌟 About the Project  
 MyShiftMang is an innovative **Shift Management System** that helps users efficiently manage their work shifts, salaries, and personal details. Whether you're a freelancer, employee, or manager, this tool makes shift tracking **easy and automated!**  
 
-🔗 **Live Demo:** [Click here to try it out!](https://lid0kk.github.io/myShiftMang/Pages/home.html)  
+🔗 **Live Demo:** [Click here to try it out!](https://lid0kk.github.io/myShiftMang/Pages/login.html)  
 
 ---
 
